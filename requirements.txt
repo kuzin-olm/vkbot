@@ -1,0 +1,12 @@
+requests==2.23.0
+vk_api==11.8.0
+pandas==1.0.2
+beautifulsoup4==4.8.2
+html5lib==1.0.1
+xlrd==1.2.0
+XlsxWriter==1.2.8
+numpy==1.18.1
+peewee==3.13.1
+psycopg2==2.8.4
+matplotlib==3.2.0
+finam-export==1.0.1

@@ -1,0 +1,10 @@
+.idea
+.settings
+__pycache__
+.project
+.pydevprojekt
+venv
+vk_config.v2.json
+tests.py
+*.log
+settings.py
